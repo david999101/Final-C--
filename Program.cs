@@ -86,9 +86,9 @@
                     return;            
             }
             }
-            catch (NumberOutOfRangeException)
+            catch (NumberOutOfRangeException e)
             {
-                Console.WriteLine("Enter a number from 1 to 6, please");
+                Console.WriteLine(e.Message);
             }
         }
     }

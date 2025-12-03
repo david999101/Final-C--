@@ -12,3 +12,4 @@ c:\Users\QK\Desktop\Final(C#)\obj\Debug\net9.0\refint\Final(C#).dll
 c:\Users\QK\Desktop\Final(C#)\obj\Debug\net9.0\Final(C#).pdb
 C:\Users\QK\Desktop\Final(C#)\obj\Debug\net9.0\Final(C#).genruntimeconfig.cache
 C:\Users\QK\Desktop\Final(C#)\obj\Debug\net9.0\ref\Final(C#).dll
+C:\Users\QK\Desktop\Final(C#)\obj\Debug\net9.0\Final(C#).sourcelink.json

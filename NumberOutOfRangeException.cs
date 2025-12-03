@@ -1,8 +1,6 @@
 public class NumberOutOfRangeException : Exception
 {
-    public NumberOutOfRangeException(string message)
-        : base(message) { }
-
+    public NumberOutOfRangeException(string message): base(message) { }
 
     public static int ValidateNumber(string input, int min = 1, int max = 6)
 {
