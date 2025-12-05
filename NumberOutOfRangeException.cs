@@ -6,7 +6,7 @@ public class NumberOutOfRangeException : Exception
 {
     if (!int.TryParse(input, out int number))
     {
-        throw new NumberOutOfRangeException($"{input} is not a number");
+        throw new NumberOutOfRangeException($"{input} is not an integer");
     }
 
     if (number < min || number > max)
